@@ -390,13 +390,17 @@ skip
 
 # 補足
 
+----
+
+# Kindle漫画の購入履歴データ
+GitHubで[Kindle漫画の購入履歴データ.csv](https://github.com/yuji38kwmt/ngk2025s-yuji38kwmt-slide/blob/main/kindle-manga-purchase-history.csv)を公開中
 
 
 ----
 
 # 元通りになるきっかけ
 
-以下のようなことが起きたら、私はきっと元の状態戻るでしょう。
+以下のようなことが起きたら、私はきっと元の状態戻るだろう。
 
 * Amazonのギフトカードがコンビニからなくなる
 * 自宅の近くにコンビニができる
@@ -422,5 +426,12 @@ skip
 ----
 
 # Kindle Unlimited
-TODO
+
+* 2020/11～2021/01の期間Kindle Unlimitedに加入していた。
+* 金額的に得かもしれないが、全然止められないので解約した。
+* 私はサブスクリプションに加入しない方がよい
+
+
+
+
 
